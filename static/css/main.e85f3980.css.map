@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e85f3980.css","mappings":"AAAA,MACE,cACF,CACA,SACE,SACF,CACA,GACE,kBACF,CACA,uBAEE,gBACF","sources":["App.css"],"sourcesContent":["nav a {\r\n  font-size: 25px;\r\n}\r\na.active {\r\n  color: red;\r\n}\r\nli {\r\n  margin-bottom: 10px;\r\n}\r\ninput + button,\r\nli button {\r\n  margin-left: 20px;\r\n}\r\n"],"names":[],"sourceRoot":""}
